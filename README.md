@@ -7,6 +7,14 @@ Hello guys great to see that you have shown intrest in the Tensorflow101 webinar
 *** Note: 
 This session would not cover the math behind the models and is strictly a hands on session. Though the required material , articles and references will be available in this repository. So, intrested attendees can go through them. 
 
+#### Table of Contents
+ 1. ANN Template
+ 2. ANN Solution
+ 3. CNN Template
+ 4. CNN Solution
+ 5. Regression/Classification Template
+ 6. Regression/Classification Solution
+
 ### How to use this repo ?
 
 This repo contains a template for developing an ANN and a CNN which the attendees can use to work along and implement the code. Also, for the attendees who could not follow there is a solution notebook that they can follow. 
